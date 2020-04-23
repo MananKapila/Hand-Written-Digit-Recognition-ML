@@ -11,7 +11,8 @@ Libraries used:
 </ol>
 
 <p>Data set used: MNIST(Modified National Institute of Standards and Technology database) dataset </p>
-<p>Reinforcement learning used.</p>
+<p>Reinforcement learning used.
+   Model build using Neural Network</p>
 
 
 <h4>Features: </h4>
